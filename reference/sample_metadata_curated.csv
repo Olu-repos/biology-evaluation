@@ -1,0 +1,28 @@
+count_column,count_column_index_0based,gene_key_column,counts_partition,gsm,geo_title,patient_id_from_description_provisional,treatment_state_geo,response_geo,timepoint_days_geo,batch_geo,platform_geo,antibody_geo,mapping_rule,review_note
+MGH200_FFPE_031116,1,Gene,MGH_26,GSM5133918,MGH200_FFPE_031116,200,PRE,R,21,1,GPL18573,anti-PDL1,exact,PRE with positive recorded day; confirm timing definition
+MGH200_FFPE_072716,2,Gene,MGH_26,GSM5133919,MGH200_FFPE_072716,200,ON,R,131,1,GPL18573,anti-PDL1,exact,
+MGH530_FFPE_082916,3,Gene,MGH_26,GSM5133920,MGH530_FFPE_082916,530,PRE,R,0,1,GPL18573,anti-PD1,exact,
+MGH530_FFPE_091916,4,Gene,MGH_26,GSM5133921,MGH530_FFPE_091916,530,ON,R,21,1,GPL18573,anti-PD1,exact,
+MGH530_FFPE_032417,5,Gene,MGH_26,GSM5133922,MGH530_FFPE_032417,530,ON,R,207,1,GPL18573,anti-PD1,exact,
+MGHBI1_101415,6,Gene,MGH_26,GSM5133923,MGHBI1_101415_bam,BI1,PRE,NR,0,2,GPL18573,anti-PD1,case/punctuation and _bam suffix,
+MGHIPIPD1001_041814,7,Gene,MGH_26,GSM5133924,MGHIPIPD1001_041814_bam,IPIPD1001,PRE,NR,-6,2,GPL18573,anti-PD1+anti-CTLA4,case/punctuation and _bam suffix,
+MGHIPIPD1001_092414,8,Gene,MGH_26,GSM5133925,MGHIPIPD1001_092414_bam,IPIPD1001,ON,NR,153,2,GPL18573,anti-PD1+anti-CTLA4,case/punctuation and _bam suffix,
+MGHIPIPD1001_070215-1,9,Gene,MGH_26,GSM5133926,MGHIPIPD1001_070215_1_bam,IPIPD1001,ON,NR,434,2,GPL18573,anti-PD1+anti-CTLA4,case/punctuation and _bam suffix,Same patient/state/day as another GSM; specimen relation unverified
+MGHIPIPD1001_070215-2,10,Gene,MGH_26,GSM5133927,MGHIPIPD1001_070215_2_bam,IPIPD1001,ON,NR,434,2,GPL18573,anti-PD1+anti-CTLA4,case/punctuation and _bam suffix,Same patient/state/day as another GSM; specimen relation unverified
+MGHIPIPD1001_070715-1,11,Gene,MGH_26,GSM5133928,MGHIPIPD1001_070715_1_bam,IPIPD1001,ON,NR,439,2,GPL18573,anti-PD1+anti-CTLA4,case/punctuation and _bam suffix,Same patient/state/day as another GSM; specimen relation unverified
+MGHIPIPD1001_070715-2,12,Gene,MGH_26,GSM5133929,MGHIPIPD1001_070715_2_bam,IPIPD1001,ON,NR,439,2,GPL18573,anti-PD1+anti-CTLA4,case/punctuation and _bam suffix,Same patient/state/day as another GSM; specimen relation unverified
+MGHIPIPD1001_070715-3,13,Gene,MGH_26,GSM5133930,MGHIPIPD1001_070715_3_bam,IPIPD1001,ON,NR,439,2,GPL18573,anti-PD1+anti-CTLA4,case/punctuation and _bam suffix,Same patient/state/day as another GSM; specimen relation unverified
+MGH27_032812,14,Gene,MGH_26,GSM5133931,MGH27_032812_bam,27,PRE,NR,-433,3,GPL18573,anti-PD1,case/punctuation and _bam suffix,PRE with distant recorded day; check intended baseline window
+MGH27_070213,15,Gene,MGH_26,GSM5133932,MGH27_070213_bam,27,ON,NR,28,3,GPL18573,anti-PD1,case/punctuation and _bam suffix,
+MGH35_091015,16,Gene,MGH_26,GSM5133933,MGH35_091015_bam,35,PRE,R,0,3,GPL18573,anti-PD1,case/punctuation and _bam suffix,
+MGH99_041914,17,Gene,MGH_26,GSM5133934,MGH99_041914_bam,99,ON,NR,3,3,GPL18573,anti-PD1,case/punctuation and _bam suffix,
+MGH253_111214,18,Gene,MGH_26,GSM5133935,MGH253_111214_bam,253,PRE,NR,0,3,GPL18573,anti-PDL1,case/punctuation and _bam suffix,
+MGH253_070616,19,Gene,MGH_26,GSM5133936,MGH253_070616_bam,253,ON,NR,602,3,GPL18573,anti-PDL1,case/punctuation and _bam suffix,
+MGH409_113015,20,Gene,MGH_26,GSM5133937,MGH409_113015_bam,409,PRE,R,-8,3,GPL18573,anti-PD1+anti-CTLA4,case/punctuation and _bam suffix,
+MGH51-081413,21,Gene,MGH_26,GSM5133938,MGH51_081413,51,ON,NR,342,4,GPL11154,anti-PDL1,case/punctuation and _bam suffix,
+MGH51-041814,22,Gene,MGH_26,GSM5133939,MGH51_041814,51,ON,NR,589,4,GPL11154,anti-PDL1,case/punctuation and _bam suffix,
+MGH98-030314,23,Gene,MGH_26,GSM5133940,MGH98_030314,98,PRE,R,-47,4,GPL11154,anti-PD1,case/punctuation and _bam suffix,
+MGH98-051514,24,Gene,MGH_26,GSM5133941,MGH98_051514,98,ON,R,25,4,GPL11154,anti-PD1,case/punctuation and _bam suffix,
+MGHPDL002-061812,25,Gene,MGH_26,GSM5133942,MGHPDL002_061812,PDL002,PRE,NR,0,4,GPL11154,anti-PDL1,case/punctuation and _bam suffix,
+MGHPDL002-080112,26,Gene,MGH_26,GSM5133943,MGHPDL002_080112,PDL002,ON,NR,44,4,GPL11154,anti-PDL1,case/punctuation and _bam suffix,
+148-12-13-14_S10,29,gene,appended_148,GSM5133944,148-12-13-14_S10,148,ON,NR,209,5,GPL11154,anti-PD1,exact,Separate gene key/annotation; do not append by row position
